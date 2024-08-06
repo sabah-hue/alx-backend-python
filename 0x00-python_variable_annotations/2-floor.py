@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-takes a string a and a string b as arguments 
-nd returns a concatenated string
+takes a float n as argument
+and returns the floor of the float
 """
 
 
-def concat(str1: str, str2: str) -> str:
-    """concat two args"""
-    return str1 + str2
+def floor(n: float) -> int:
+    """floor float to int"""
+    return floor(n)

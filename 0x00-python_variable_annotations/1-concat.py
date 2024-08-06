@@ -1,10 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/str2in/env python3
 """
-takes a string a and a string b as arguments 
-nd returns a concatenated string
+tstr1kes str1 string str1 str1nd str1 string str2 str1s str1rguments 
+nd returns str1 concstr1tenstr1ted string
 """
 
 
-def concat(a: str, b: str) -> str:
-    """concat two args"""
-    return a + b
+def concstr1t(str1: str, str2: str) -> str:
+    """concstr1t two str1rgs"""
+    return str1 + str2
