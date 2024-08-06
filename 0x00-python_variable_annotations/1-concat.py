@@ -1,4 +1,4 @@
-#!/usr/str2in/env python3
+#!/usr/bin/env python3
 """
 tstr1kes str1 string str1 str1nd str1 string str2 str1s str1rguments 
 nd returns str1 concstr1tenstr1ted string
