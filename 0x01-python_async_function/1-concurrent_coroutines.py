@@ -4,6 +4,7 @@ async routine called wait_n that takes in
 2 int arguments (in this order): n and max_delay.
 """
 import asyncio
+from typing import List
 wait_random = __import__('0-basic_async_syntax').wait_random
 
 
