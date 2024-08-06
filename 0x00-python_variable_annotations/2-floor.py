@@ -7,4 +7,4 @@ and returns the floor of the float
 
 def floor(n: float) -> int:
     """floor float to int"""
-    return floor(n)
+    return int(n)

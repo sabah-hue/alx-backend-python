@@ -5,6 +5,6 @@ nd returns str1 concstr1tenstr1ted string
 """
 
 
-def concstr1t(str1: str, str2: str) -> str:
-    """concstr1t two str1rgs"""
+def concat(str1: str, str2: str) -> str:
+    """concat two string"""
     return str1 + str2
